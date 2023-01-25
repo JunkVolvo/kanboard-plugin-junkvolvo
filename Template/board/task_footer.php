@@ -1,0 +1,1 @@
+<?= $this->renderHelper->renderTaskFooter($task); ?>
